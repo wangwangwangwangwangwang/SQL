@@ -1,0 +1,6 @@
+E:\VS练习\MySchool菜单功能\MySchool菜单功能\bin\Debug\MySchool菜单功能.exe.config
+E:\VS练习\MySchool菜单功能\MySchool菜单功能\bin\Debug\MySchool菜单功能.exe
+E:\VS练习\MySchool菜单功能\MySchool菜单功能\bin\Debug\MySchool菜单功能.pdb
+E:\VS练习\MySchool菜单功能\MySchool菜单功能\obj\Debug\MySchool菜单功能.csprojResolveAssemblyReference.cache
+E:\VS练习\MySchool菜单功能\MySchool菜单功能\obj\Debug\MySchool菜单功能.exe
+E:\VS练习\MySchool菜单功能\MySchool菜单功能\obj\Debug\MySchool菜单功能.pdb
